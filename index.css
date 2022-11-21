@@ -1,0 +1,23 @@
+.midashi {
+    background-color: antiquewhite;
+    text-align: center;
+
+}
+.pictureOne {
+    width : 50vw ;
+}
+.qOne {
+    text-align: center;
+}
+
+.qTwo {
+    text-align: center;
+}
+
+.qThree {
+    text-align: center;
+}
+
+#checkButton{
+    margin-top: 15px;
+}
